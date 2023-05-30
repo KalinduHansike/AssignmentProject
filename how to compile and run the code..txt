@@ -1,0 +1,8 @@
+1.Open Technical Test folder.
+2.Open Cafe-Manager-Api folder.
+3.Open Cafe-Manager-Api.sln on Microsoft Visual sudio.
+4.Then Open Visual Code and open cafe-employee-manager in Technical Test Folder.
+5.Then Open DBScripts folder and execute all the scripts under db_cafe_register database on SQL 
+6.if not configure Connection string,Configure the connection string
+6.Then Run the API. 
+7.After that Open new Terminalon Visual Code and run the React App using "npm start" keyword.
