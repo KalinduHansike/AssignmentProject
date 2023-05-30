@@ -1,7 +1,7 @@
-1.Open https://github.com/KalinduHansike/Cafe-Manager-API Link and download the source.
+1.Open https://github.com/KalinduHansike/Cafe-Manager-API Link and clone the source.
 2.Open Cafe-Manager-Api folder.
 3.Open Cafe-Manager-Api.sln on Microsoft Visual sudio.
-4.Open https://github.com/KalinduHansike/cafe-employee-manager Link and download the source.
+4.Open https://github.com/KalinduHansike/cafe-employee-manager Link and clone the source.
 5.Then Open Visual Code and open cafe-employee-manager.
 6.Then get DBScripts from https://github.com/KalinduHansike/AssignmentProject and execute all the scripts under db_cafe_register database on MySQL 
 7.if not configure Connection string,Configure the connection string
