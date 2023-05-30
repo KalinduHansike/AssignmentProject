@@ -1,2 +1,0 @@
-# AssignmentProject
-Assignment Test
